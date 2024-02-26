@@ -1,4 +1,4 @@
 {
-    "wav_dir": "/path/to/MSP-PODCAST-1.11/Audios",
-    "label_path": "/path/to/processed_labels.csv"
+    "wav_dir": "../odyssey2024/dataset/Audios",
+    "label_path": "../odyssey2024/dataset/Labels/labels_consensus.csv"
 }
