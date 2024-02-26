@@ -1,10 +1,10 @@
 import pandas as pd
 
-# Use this code to create a .csv file with the necessary format needed for 
+# Use this code to create a .csv file with the necessary format needed for
 # categorical emotion recognition model
 
 # Load Original label_consensus.csv file provided with dataset
-df = pd.read_csv('path/to/original/label_consensus.csv')
+df = pd.read_csv('../odyssey2024/dataset/Labels/label_consensus.csv')
 
 # Define the emotions
 emotions = ["Angry", "Sad", "Happy", "Surprise", "Fear", "Disgust", "Contempt", "Neutral"]
